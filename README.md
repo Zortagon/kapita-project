@@ -1,5 +1,6 @@
 # Menggunakan framework Falcon dan Flask
 Falcon dan Flask adalah dua framework Python yang populer digunakan dalam pengembangan web. Falcon terkenal karena kecepatan dan skalabilitasnya, sedangkan Flask terkenal karena mudah digunakan dan dapat dengan cepat dikembangkan. Dalam artikel ini, kita akan membahas cara menggunakan Falcon sebagai backend service dan Flask sebagai client.
+>Repositori ini adalah kode sumber project akhir Kapita, di mana artikel berikut adalah **contoh** implementasi sederhana penggunaan framework Falcon dan Flask untuk pengembangan web. 
 
 ### 1. Persiapan lingkungan pengembangan
 Sebelum mulai mengembangkan, pastikan bahwa lingkungan pengembangan telah dipersiapkan. Instalasi Python dan pip harus sudah selesai. Selain itu, pastikan juga telah menginstal library Falcon dan Flask melalui pip.
