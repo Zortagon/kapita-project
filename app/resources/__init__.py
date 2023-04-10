@@ -1,1 +1,1 @@
-from .product_resource import ProductResource
+from .product_resource import ProductResource as Products
