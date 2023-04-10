@@ -1,3 +1,2 @@
 import falcon
-
-app = falcon.App()
+import os
